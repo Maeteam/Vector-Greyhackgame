@@ -218,7 +218,7 @@ VECTOR.recurse = function(token, max_length)
 		result = VECTOR.connect(upper_first_char)
 		VECTOR.attempts = VECTOR.attempts + 1
 		if result != null then
-			print("- Password: <b>" + password +"</b>")
+			print("- Password: <b>" + upper_first_char +"</b>")
 			return result
 		end if
 	end if
