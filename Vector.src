@@ -4,6 +4,8 @@ VECTOR password cracker
 open source project only cracks local passwords when run.
 check the more advanced password cracker CHAINSAW - https://github.com/jwfraustro/chainsaw/tree/main
 This project was inspired by CHAINSAW and couldnt have come to light without it.
+
+Licensed under MIT License (see LICENSE file)
 */
 
 VECTOR.logo = "<color=#9142DB>                  _____              
