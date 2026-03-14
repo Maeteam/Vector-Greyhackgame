@@ -6,6 +6,7 @@ check the more advanced password cracker CHAINSAW - https://github.com/jwfraustr
 This project was inspired by CHAINSAW and couldnt have come to light without it.
 */
 
+
 VECTOR.logo = "<color=#9142DB>                  _____              
 <color=#9142DB>___   ______________  /______________
 <color=#9142DB>__ | / /  _ \  ___/  __/  __ \_  ___/
